@@ -78,6 +78,3 @@ This project uses a **Simulated Payment Gateway** suitable for demonstrations an
 1. Replace `VITE_RAZORPAY_KEY_ID` in `.env`.
 2. Load Razorpay script in `index.html`.
 3. Update `handleBooking` in `EventDetail.jsx`.
-
----
-Developed with ❤️ by Antigravity AI
